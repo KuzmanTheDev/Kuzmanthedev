@@ -1,16 +1,15 @@
-### Hi there 👋
+### Hi 👋, I'm Emmanuel
+#### A Full Stack Developer
+![Full Stack Developer](https://i1.wp.com/icotech.rf.gd/wp-content/uploads/2017/06/cropped-new-tech-banner-image.jpg?fit=960%2C330)
 
-<!--
-**KuzmanTheDev/Kuzmanthedev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I'm Emmanuel Okwuzi, I like making magic happen on the web with my Full Stack Developer skills. I believe every problem has a solution with the right approach and knowledge.
+Skills: NEXT / REACT / JS / HTML / CSS/ NODE/GRAPHQL
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📫 How to reach me: kuzmanthedev@gmail.com 
+- ⚡ Fun fact: I like Anime and Messi 
+
+
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kuzmanthedev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kuzman___/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kuzmanthedev.netlify.app)  
+
+![Emmanuel's GitHub stats](https://github-readme-stats.vercel.app/api?username=kuzmanthedev&show_icons=true&theme=dracula)
