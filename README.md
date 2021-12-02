@@ -4,7 +4,7 @@
 
 
 I'm Emmanuel Okwuzi, I like making magic happen on the web with my Full Stack Developer skills. I believe every problem has a solution with the right approach and knowledge.
-Skills: NEXT / REACT / JS / HTML / CSS/ NODE/GRAPHQL
+Tech Stack: React, Nextjs, GraphQL, Nodejs, Firebase, MongoDB and PostgreSQL.
 
 - 📫 How to reach me: kuzmanthedev@gmail.com 
 - ⚡ Fun fact: I like Anime and Messi 
