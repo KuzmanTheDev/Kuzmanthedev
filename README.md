@@ -1,6 +1,6 @@
 ### Hi 👋, I'm Emmanuel
 #### A Full Stack Developer
-![Full Stack Developer](https://i1.wp.com/icotech.rf.gd/wp-content/uploads/2017/06/cropped-new-tech-banner-image.jpg?fit=960%2C330)
+![Full Stack Developer](https://www.wallpapertip.com/wmimgs/225-2257906_hello-world-wallpaper.png)
 
 
 I'm Emmanuel Okwuzi, I like making magic happen on the web with my Full Stack Developer skills. I believe every problem has a solution with the right approach and knowledge.
