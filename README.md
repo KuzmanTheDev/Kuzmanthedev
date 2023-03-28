@@ -7,7 +7,4 @@ I'm Emmanuel Okwuzi, I like making magic happen on the web with my Full Stack De
 Tech Stack: React, Nextjs, GraphQL, Nodejs, Firebase, MongoDB and PostgreSQL.
 
 - 📫 How to reach me: kuzmanthedev@gmail.com 
-- ⚡ Fun fact: I like Anime and Messi 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/kuzmanthedev)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/kuzman___/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](kuzmanthedev.netlify.app)  
+- ⚡ When I'm not working, I watch anime and TV shows. I also school Erastus and Chimzi in FIFA frequently
