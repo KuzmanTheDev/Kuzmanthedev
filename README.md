@@ -1,5 +1,5 @@
 ### Hi 👋, I'm Emmanuel
-#### A Full Stack Developer
+#### Software Developer
 ![Full Stack Developer](https://www.wallpapertip.com/wmimgs/225-2257906_hello-world-wallpaper.png)
 
 
